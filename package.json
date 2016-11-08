@@ -1,0 +1,14 @@
+{
+  "name": "algs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "i.js",
+  "scripts": {
+    "test": "ava -w i.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^0.16.0"
+  }
+}
